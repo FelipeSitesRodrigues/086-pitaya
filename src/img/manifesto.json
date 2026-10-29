@@ -1,0 +1,245 @@
+{
+ "hero": {
+  "larguras": [
+   1672,
+   1280,
+   960
+  ],
+  "w": 1672,
+  "h": 941
+ },
+ "gummies-hero": [
+  {
+   "nome": "hg-1",
+   "w": 107,
+   "h": 92,
+   "l": 60.467,
+   "t": 19.66,
+   "lw": 6.4
+  },
+  {
+   "nome": "hg-2",
+   "w": 71,
+   "h": 69,
+   "l": 52.273,
+   "t": 32.412,
+   "lw": 4.246
+  },
+  {
+   "nome": "hg-3",
+   "w": 111,
+   "h": 109,
+   "l": 77.931,
+   "t": 37.62,
+   "lw": 6.639
+  },
+  {
+   "nome": "hg-4",
+   "w": 32,
+   "h": 35,
+   "l": 48.565,
+   "t": 38.47,
+   "lw": 1.914
+  }
+ ],
+ "hero-mobile": {
+  "larguras": [
+   760,
+   560
+  ],
+  "w": 941,
+  "h": 941
+ },
+ "cta": {
+  "larguras": [
+   1536,
+   1024
+  ],
+  "w": 1536,
+  "h": 1024
+ },
+ "mulher": {
+  "larguras": [
+   1122,
+   800,
+   560
+  ],
+  "w": 1122,
+  "h": 1402
+ },
+ "produto-respingo": {
+  "larguras": [
+   960,
+   720,
+   440
+  ],
+  "ratio": 0.8998
+ },
+ "pote-frente": {
+  "larguras": [
+   520,
+   300
+  ],
+  "ratio": 1.4817
+ },
+ "pote-esq": {
+  "larguras": [
+   420,
+   260
+  ],
+  "ratio": 1.3787
+ },
+ "pote-dir": {
+  "larguras": [
+   420,
+   260
+  ],
+  "ratio": 1.3366
+ },
+ "gummy-1": {
+  "larguras": [
+   260,
+   140
+  ],
+  "ratio": 0.5893
+ },
+ "gummy-1-blur": {
+  "largura": 314,
+  "ratio": 0.6592
+ },
+ "gummy-2": {
+  "larguras": [
+   260,
+   140
+  ],
+  "ratio": 0.8101
+ },
+ "gummy-2-blur": {
+  "largura": 314,
+  "ratio": 0.8439
+ },
+ "gummy-3": {
+  "larguras": [
+   260,
+   140
+  ],
+  "ratio": 0.4348
+ },
+ "gummy-3-blur": {
+  "largura": 314,
+  "ratio": 0.5318
+ },
+ "gummy-4": {
+  "larguras": [
+   260,
+   140
+  ],
+  "ratio": 0.8571
+ },
+ "gummy-4-blur": {
+  "largura": 314,
+  "ratio": 0.8822
+ },
+ "gummy-5": {
+  "larguras": [
+   260,
+   140
+  ],
+  "ratio": 0.9194
+ },
+ "gummy-5-blur": {
+  "largura": 314,
+  "ratio": 0.9331
+ },
+ "gummy-6": {
+  "larguras": [
+   260,
+   140
+  ],
+  "ratio": 0.8571
+ },
+ "gummy-7": {
+  "larguras": [
+   260,
+   140
+  ],
+  "ratio": 0.7569
+ },
+ "gummy-8": {
+  "larguras": [
+   260,
+   140
+  ],
+  "ratio": 0.504
+ },
+ "gummy-9": {
+  "larguras": [
+   260,
+   140
+  ],
+  "ratio": 0.7135
+ },
+ "pitaya-inteira-pe": {
+  "larguras": [
+   420,
+   240
+  ],
+  "ratio": 1.4632
+ },
+ "pitaya-inteira-deitada": {
+  "larguras": [
+   420,
+   240
+  ],
+  "ratio": 0.7846
+ },
+ "pitaya-metade-a": {
+  "larguras": [
+   420,
+   240
+  ],
+  "ratio": 1.208
+ },
+ "pitaya-metade-a-blur": {
+  "largura": 468,
+  "ratio": 1.1859
+ },
+ "pitaya-metade-b": {
+  "larguras": [
+   420,
+   240
+  ],
+  "ratio": 0.8747
+ },
+ "pitaya-rodela": {
+  "larguras": [
+   420,
+   240
+  ],
+  "ratio": 0.6973
+ },
+ "pitaya-rodela-blur": {
+  "largura": 468,
+  "ratio": 0.7286
+ },
+ "pitaya-cunha": {
+  "larguras": [
+   420,
+   240
+  ],
+  "ratio": 0.8421
+ },
+ "logo": {
+  "larguras": [
+   480,
+   300
+  ],
+  "ratio": 0.4544
+ },
+ "simbolo": {
+  "larguras": [
+   160
+  ],
+  "ratio": 0.9401
+ }
+}

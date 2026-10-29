@@ -1,0 +1,16 @@
+{
+  "name": "086-rubi-gummies",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "imagens": "node scripts/imagens.mjs",
+    "build": "node build.mjs",
+    "servir": "node scripts/servir.mjs"
+  },
+  "devDependencies": {
+    "@phosphor-icons/core": "^2.1.1",
+    "lenis": "^1.3.26",
+    "sharp": "^0.35.5",
+    "simple-icons": "^16.35.0"
+  }
+}
